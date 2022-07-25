@@ -26,4 +26,4 @@ There aren’t any clear patterns in the data. Houses in certain areas of the ci
 
 Next, a random forest regressor model is developed to see if ward, neighborhood, property type, tax due in year of sale, and number and types of permits pulled can predict the percent increase in tax due price two years after the sale date. The random forest model predicted price increase with approximately 80% accuracy, but number and type of permit were not major contributing factors to the model. Finally, a linear regression model is developed to see how the number of permits pulled influences sale price.
 
-Code for this project can be found in the Jupyter notebook [here](https://github.com/lkreisel/dc_311/blob/main/DC_Flipped_Permits.ipynb). 
+Code for this project can be found in the Jupyter notebook [here](https://github.com/lkreisel/dc_flipped_houses/blob/main/DC_Flipped_Permits.ipynb). 
